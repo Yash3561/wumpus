@@ -106,5 +106,4 @@ def run_game_gui():
 
     # Initial GUI Update
     update_gui()
-
     root.mainloop()
